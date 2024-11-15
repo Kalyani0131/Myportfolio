@@ -1,4 +1,3 @@
-
 var typed = new Typed(".text", {
     strings: ["Programming"],
     typeSpeed:100,
